@@ -1,0 +1,186 @@
+/* 
+  Localizable.strings
+  TianKong
+
+  Created by Cheuk yu Yeung on 12/5/15.
+  Copyright (c) 2015 Cheuk yu Yeung. All rights reserved.
+*/
+
+//interface
+mainViewBG = "bg_chi_1024x768";
+Logout = "登出";
+Achievement = "成就";
+Back = "返回";
+SaveBtn = "儲存";
+GameBtn = "建立遊戲";
+ShareBtn = "分享筆記";
+submitButtonText = "提交";
+
+//menu
+editText = "編輯";
+shareText = "分享";
+deleteText = "刪除";
+linkText = "連結";
+topText = "最高層";
+upText = "上一層";
+downText = "下一層";
+bottomText = "最低層";
+
+//error message
+errorConHead = "連接失敗";
+errorConContent = "請檢查你的連接狀態";
+
+//share view
+successShareMessage = "成功 - 此筆記己成功分享";
+failShareMessage = "失敗 - 請重新輸入正確的目標用戶名或帳戶";
+orderLabelText = "請輸入目標的用戶名或帳戶:";
+shareBtnText = "分享";
+
+errorNoInputHead = "分享失敗";
+errorNoInputContent = "目標用戶名或帳戶不能是空的";
+errorWrongInputHead = "分享失敗";
+errorWrongInputContent = "沒有正確的ID";
+errorToHead = "分享失敗";
+errorToContent = "目標用戶名或帳戶不正確";
+errorCantCopyHead = "分享失敗";
+errorCantCopyContent = "複製錯誤";
+
+
+//all fine
+OK = "確認";
+confirmToLeaveTVText = "你是否確定不更新並離開?";
+confirmToLeaveNoteText = "你是否確定不儲存並離開?";
+yes = "是";
+no = "否";
+
+//TextField
+askInputText = "輸入文字";
+lockedText = "已鎖定";
+showAnsText = "顯示答案";
+hideAnsText = "隱藏答案";
+
+//Collection Page
+c1 = "公仔";
+c2 = "哭泣";
+c3 = "友誼";
+c4 = "滿分";
+c5 = "開心";
+c6 = "皇帝";
+c7 = "剪刀";
+c8 = "學習";
+
+//Click Distribute Button Checking
+showAnsBtnText = "顯示所有答案";
+hideAnsBtnText = "隱藏所有答案";
+alertInputAnsHeadText = "有些答案欄並沒有輸入答案";
+alertInputAnsContentText = "在發佈前, 請在所有答案欄輸入答案";
+alertNoteContainAnsHeadText = "學生筆記不能存在答案或答案欄";
+alertNoteContainAnsContentText = "在發佈筆記前, 請移除所有答案及答案欄";
+
+//Teacher Distribute Page
+giftLabelText = "選擇一份禮物給答對的學生(不選也可)";
+groupLabelText = "選擇一個小組對象收取此題目";
+distributeBtnText = "發佈";
+selectGroupHeadText = "沒有選擇小組";
+selectGroupContentText = "請選擇一個小組";
+completeDistributeText = "成功 - 此題目己經發佈給所有小組內的學生";
+closeScreenText = "(此頁面將於五秒後自動關閉)";
+
+//Ans-related
+isAns = "設定成答案";
+isQus = "還原成問題";
+showAns = "顯示答案";
+hideAns = "隱藏答案";
+
+//ribbon
+ribbonQus = "question_chi";
+ribbonAns = "answer_chi";
+ribbonEX = "exercise_chi";
+ribbonTest = "test_chi";
+ribbonCompetition = "competition_chi";
+
+iconStandard = "基本圖案";
+iconCollection = "禮物圖案";
+
+//Node Tag Change
+headLabel = "學習活動標籤信息";
+
+subjectLabel = "學科";
+topicLabel = "範疇";
+subTopicLabel = "單位";
+keywordsLabel = "關鍵詞 \n(以\",\"分隔)";
+remarksLabel = "備註";
+
+disTypeLabel = "種類";
+difficultyLabel = "難易度";
+difficultyPresentationLabel = "難易度顯示方式";
+highlightAnsLabel = "每次提交後，提示答錯的答案";
+giveGiftLabel = "答案全對，能擭得隨機禮物";
+timeLimitLabel = "時間限制 (秒)";
+maxTrialLabel = "限制提交次數";
+pickName = "選擇";
+
+subjectSC0 = "數學";
+subjectSC1 = "英文";
+subjectSC2 = "中文";
+subjectSC3 = "其他";
+
+disTypeSC0 = "筆記";
+disTypeSC1 = "練習";
+disTypeSC2 = "測驗";
+disTypeSC3 = "比賽";
+
+statusPre = "等待答案";
+statusPost = "已提交";
+
+difficultySC0 = "容易 (1)";
+difficultySC1 = "普通 (2)";
+difficultySC2 = "困難 (3)";
+
+difficultyPresentationSC0 = "1,2,3 星星";
+difficultyPresentationSC1 = "星星, 月亮, 太陽";
+
+highlightAnsSC0 = "否";
+highlightAnsSC1 = "是";
+
+giveGiftSC0 = "否";
+giveGiftSC1 = "是";
+
+timeLimitSC0 = "沒有";
+timeLimitSC1 = "10";
+timeLimitSC2 = "30";
+timeLimitSC3 = "60";
+timeLimitSC4 = "300";
+
+maxTrialSC0 = "沒有";
+maxTrialSC1 = "1";
+maxTrialSC2 = "3";
+maxTrialSC3 = "5";
+maxTrialSC4 = "10";
+
+successChangeTagMessage = "成功 - 課堂活動設定己更新";
+failChangeTagMessage = "失敗 - 請稍後再試";
+
+//trialLeft
+trialLeftText = "尚餘提交次數";
+timeHeadLabelText = "尚餘時間:";
+marksHeadLabelText = "分數:";
+
+//students performance
+actHeadLabel = "學習進度追踪概要";
+studentLabel = "學生";
+marksLabel = "分數";
+feelingLabel = "學生回饋";
+trialsLabel = "次數";
+timeTakenLabel = "總所需時間";
+commentLabel = "意見";
+readLabel = "查閱";
+activityName = "活動編號";
+
+//Comment to teacher
+commentHeadLabel = "給老師的訊息";
+say = "說";
+
+//update question lines
+successUpdateQuestionLinesMessage = "問題定義線更新成功";
+failUpdateQuestionLinesMessage = "問題定義線更新失敗";

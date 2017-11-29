@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "語言 (Language):"; ObjectID = "2sI-Aa-LDR"; */
+"2sI-Aa-LDR.text" = "語言 (Language):";
+
+/* Class = "UILabel"; text = "密碼 (Password):"; ObjectID = "7sN-Hf-ppi"; */
+"7sN-Hf-ppi.text" = "密碼 (Password):";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IJt-fq-tZM"; */
+"IJt-fq-tZM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "M3K-9f-MEF"; */
+"M3K-9f-MEF.text" = "Label";
+
+/* Class = "UISegmentedControl"; PO4-Qc-0Bd.segmentTitles[0] = "中文"; ObjectID = "PO4-Qc-0Bd"; */
+"PO4-Qc-0Bd.segmentTitles[0]" = "中文";
+
+/* Class = "UISegmentedControl"; PO4-Qc-0Bd.segmentTitles[1] = "English"; ObjectID = "PO4-Qc-0Bd"; */
+"PO4-Qc-0Bd.segmentTitles[1]" = "English";
+
+/* Class = "UINavigationItem"; title = "Main View"; ObjectID = "RI3-7I-OWa"; */
+"RI3-7I-OWa.title" = "Main View";
+
+/* Class = "UIButton"; normalTitle = "登入 (Login)"; ObjectID = "gkc-lm-7Qy"; */
+"gkc-lm-7Qy.normalTitle" = "登入 (Login)";
+
+/* Class = "UILabel"; text = "帳戶 (Account):"; ObjectID = "ljd-Om-XNf"; */
+"ljd-Om-XNf.text" = "帳戶 (Account):";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "m5D-0D-HP4"; */
+"m5D-0D-HP4.title" = "Item";
+
+/* Class = "UILabel"; text = "天空 TianKong"; ObjectID = "nob-Cx-nW1"; */
+"nob-Cx-nW1.text" = "天空 TianKong";

@@ -1,0 +1,189 @@
+/* 
+  Localizable.strings
+  TianKong
+
+  Created by Cheuk yu Yeung on 12/5/15.
+  Copyright (c) 2015 Cheuk yu Yeung. All rights reserved.
+*/
+
+//interface
+mainViewBG = "bg_eng_1024x768";
+Logout = "Logout";
+Achievement = "Achievement";
+Back = "Back";
+SaveBtn = "Save";
+GameBtn = "Create Game";
+ShareBtn = "Share Note";
+submitButtonText = "Submit";
+
+//menu
+editText = "Edit";
+shareText = "Share";
+deleteText = "Delete";
+linkText = "Link";
+topText = "Top";
+upText = "Up";
+downText = "Down";
+bottomText = "Bottom";
+
+//error message
+errorConHead = "Connection Failed";
+errorConContent = "Please check your network connection.";
+
+//share view
+successShareMessage = "Success - This note is shared";
+failShareMessage = "Fail - Please try again with correct target's Account or UserName";
+orderLabelText = "Input target's Account or User Name:";
+shareBtnText = "Share";
+
+errorNoInputHead = "Sharing Fail";
+errorNoInputContent = "Target's Account or User Name cannot be empty";
+errorWrongInputHead = "Sharing Fail";
+errorWrongInputContent = "The input id is wrong";
+errorToHead = "Sharing Fail";
+errorToContent = "Target's Account or User Name is incorrect";
+errorCantCopyHead = "Sharing Fail";
+errorCantCopyContent = "Duplication fails";
+
+//all fine
+OK = "OK";
+confirmToLeaveTVText = "Are you confirm to leave without making any change?";
+confirmToLeaveNoteText = "Are you confirm to leave without save?";
+yes = "YES";
+no = "NO";
+
+//TextField
+askInputText = "Enter Text";
+lockedText = "Locked";
+showAnsText = "Show Answer";
+hideAnsText = "Hide Answer";
+
+//Collection Page
+c1 = "doll";
+c2 = "cry";
+c3 = "friendship";
+c4 = "full marks";
+c5 = "happy";
+c6 = "king";
+c7 = "scissor";
+c8 = "study";
+
+//Teacher Mode
+showAnsBtnText = "Show All Answers";
+hideAnsBtnText = "Hide All Answers";
+alertInputAnsHeadText = "Some answer boxes has not yet been inputted answer";
+alertInputAnsContentText = "Please input answer in all answer boxes before distributing this question";
+alertNoteContainAnsHeadText = "Student's note cannot exist any answer or answer box";
+alertNoteContainAnsContentText = "Please remove all answer and answer box before distributing this note";
+
+//Teacher Distribute Page
+giftLabelText = "Select a gift to students who can answer correctly (Optional)";
+groupLabelText = "Select a group for collecting this question";
+distributeBtnText = "Distribute";
+selectGroupHeadText = "No group is selected";
+selectGroupContentText = "Please select a group";
+completeDistributeText = "Success - This question has been distributed to all students.";
+closeScreenText = "(This page will be automatically closed in 5 seconds)";
+
+//Ans-related
+isAns = "Set as Answer";
+isQus = "Return as Question";
+showAns = "Show Answer";
+hideAns = "Hide Answer";
+
+//ribbon
+ribbonQus = "question_eng";
+ribbonAns = "answer_eng";
+ribbonEX = "exercise_eng";
+ribbonTest = "test_eng";
+ribbonCompetition = "competition_chi";
+
+//icons selection
+iconStandard = "Basic Icons";
+iconCollection = "Gift Icons";
+
+//Node Tag Change
+headLabel = "Learning Activity Label Information";
+
+subjectLabel = "Subject";
+topicLabel = "Topic";
+subTopicLabel = "Sub-topic";
+keywordsLabel = "Key words \n (Split by \",\")";
+remarksLabel = "Remarks";
+
+disTypeLabel = "Type";
+difficultyLabel = "Difficulty";
+difficultyPresentationLabel = "Difficulty View";
+highlightAnsLabel = "Highlight Wrong answer after each submit";
+giveGiftLabel = "Get random gift after getting all correct";
+timeLimitLabel = "Time Limit (s)";
+maxTrialLabel = "Max. Number \n of Trials:";
+pickName = "Pick";
+
+subjectSC0 = "Maths";
+subjectSC1 = "English";
+subjectSC2 = "Chinese";
+subjectSC3 = "Other";
+
+disTypeSC0 = "Note";
+disTypeSC1 = "Exercise";
+disTypeSC2 = "Test";
+disTypeSC3 = "Competition";
+
+statusPre = "Waiting Answer";
+statusPost = "Submitted";
+
+difficultySC0 = "Easy (1)";
+difficultySC1 = "Normal (2)";
+difficultySC2 = "Hard (3)";
+
+difficultyPresentationSC0 = "1,2,3 Stars";
+difficultyPresentationSC1 = "Star, Moon, Sun";
+
+highlightAnsSC0 = "No";
+highlightAnsSC1 = "Yes";
+
+giveGiftSC0 = "No";
+giveGiftSC1 = "Yes";
+
+timeLimitSC0 = "No";
+timeLimitSC1 = "10";
+timeLimitSC2 = "30";
+timeLimitSC3 = "60";
+timeLimitSC4 = "300";
+
+maxTrialSC0 = "No";
+maxTrialSC1 = "1";
+maxTrialSC2 = "3";
+maxTrialSC3 = "5";
+maxTrialSC4 = "10";
+
+successChangeTagMessage = "Success - Classroom activity is updated.";
+failChangeTagMessage = "Fail - Please try again later.";
+
+//trialLeft
+trialLeftText = "Submit Quota";
+timeHeadLabelText = "Time Left:";
+marksHeadLabelText = "Marks:";
+
+//students performance
+actHeadLabel = "Learning profile summary of learning activities";
+studentLabel = "Student";
+marksLabel = "Marks";
+feelingLabel = "Student's Feedback";
+trialsLabel = "Trials";
+timeTakenLabel = "Total Time";
+commentLabel = "Comment";
+readLabel = "Read";
+activityName = "Activity ID";
+
+//Comment to teacher
+commentHeadLabel = "Give Message To Teacher";
+say = "say";
+
+mvDifficultLabel = "Difficulty:";
+
+//update question lines
+successUpdateQuestionLinesMessage = "Question Identification Lines Update Success";
+failUpdateQuestionLinesMessage = "Question Identification Lines Update Fail";
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="TianKong/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3" build-num="6D570"/>
+    </header>
+    <body>
+      <trans-unit id="8ie-xW-0ye.text">
+        <source>  Copyright (c) 2015 Cheuk yu Yeung. All rights reserved.</source>
+        <note>Class = "UILabel"; text = "  Copyright (c) 2015 Cheuk yu Yeung. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
+      </trans-unit>
+      <trans-unit id="kId-c2-rCX.text">
+        <source>天空 TianKong </source>
+        <note>Class = "UILabel"; text = "天空 TianKong "; ObjectID = "kId-c2-rCX";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="TianKong/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3" build-num="6D570"/>
+    </header>
+    <body>
+      <trans-unit id="2sI-Aa-LDR.text">
+        <source>語言 (Language):</source>
+        <note>Class = "UILabel"; text = "語言 (Language):"; ObjectID = "2sI-Aa-LDR";</note>
+      </trans-unit>
+      <trans-unit id="7sN-Hf-ppi.text">
+        <source>密碼 (Password):</source>
+        <note>Class = "UILabel"; text = "密碼 (Password):"; ObjectID = "7sN-Hf-ppi";</note>
+      </trans-unit>
+      <trans-unit id="IJt-fq-tZM.normalTitle">
+        <source>Button</source>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "IJt-fq-tZM";</note>
+      </trans-unit>
+      <trans-unit id="M3K-9f-MEF.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "M3K-9f-MEF";</note>
+      </trans-unit>
+      <trans-unit id="PO4-Qc-0Bd.segmentTitles[0]">
+        <source>中文</source>
+        <note>Class = "UISegmentedControl"; PO4-Qc-0Bd.segmentTitles[0] = "中文"; ObjectID = "PO4-Qc-0Bd";</note>
+      </trans-unit>
+      <trans-unit id="PO4-Qc-0Bd.segmentTitles[1]">
+        <source>English</source>
+        <note>Class = "UISegmentedControl"; PO4-Qc-0Bd.segmentTitles[1] = "English"; ObjectID = "PO4-Qc-0Bd";</note>
+      </trans-unit>
+      <trans-unit id="RI3-7I-OWa.title">
+        <source>Main View</source>
+        <note>Class = "UINavigationItem"; title = "Main View"; ObjectID = "RI3-7I-OWa";</note>
+      </trans-unit>
+      <trans-unit id="gkc-lm-7Qy.normalTitle">
+        <source>登入 (Login)</source>
+        <note>Class = "UIButton"; normalTitle = "登入 (Login)"; ObjectID = "gkc-lm-7Qy";</note>
+      </trans-unit>
+      <trans-unit id="ljd-Om-XNf.text">
+        <source>帳戶 (Account):</source>
+        <note>Class = "UILabel"; text = "帳戶 (Account):"; ObjectID = "ljd-Om-XNf";</note>
+      </trans-unit>
+      <trans-unit id="m5D-0D-HP4.title">
+        <source>Item</source>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "m5D-0D-HP4";</note>
+      </trans-unit>
+      <trans-unit id="nob-Cx-nW1.text">
+        <source>天空 TianKong</source>
+        <note>Class = "UILabel"; text = "天空 TianKong"; ObjectID = "nob-Cx-nW1";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="TianKong/Info.plist" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3" build-num="6D570"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="TianKongTests/Info.plist" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3" build-num="6D570"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
